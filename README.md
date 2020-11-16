@@ -1,1 +1,0 @@
-# Student-Result-management-project
